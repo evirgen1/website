@@ -1,5 +1,4 @@
 ---
-author: The R Markdown Team @RStudio
 cascade:
   show_author_byline: true
   show_comments: false
@@ -22,7 +21,23 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for Your Projects
-title: A Project Portfolio To Grow
+title: Research
 ---
+Broadly speaking, my current works examine when and how leaders use state apparatus to repress opposition in authoritarian countries. In this venture, he combines innovative quantitative methodologies with in-depth interviews and fieldwork.
 
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
+### Published or Forthcoming
+
+- Yusuf Evirgen. 2019. ‘Political Islam in Tunisia: The History of Ennahda’ Insight Turkey, Vol. 21, No.1, pp. 235-237
+
+### Under Review
+
+### Research in Progress
+
+-  A Gift for an Autocrat: Failed Coup
+
+**Abstract:**  
+
+-  Legitimization of State Repression: Failed Coup  
+
+**Abstract:** 
+
