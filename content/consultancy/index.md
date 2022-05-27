@@ -33,7 +33,7 @@ Companies, non-profit organizations, and states try to solve complex problems an
 - Organization briefings/presentations
 - Public lectures/presentations
 
-Individuals who are interested to get more information, they can visit my company's website. [link](www.evirgenconsultancy.com)
+Individuals who are interested to get more information, they can visit my company's [website](www.evirgenconsultancy.com).
 
 
 # Contact
