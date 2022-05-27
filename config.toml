@@ -126,27 +126,27 @@ enableEmoji = true
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 2
+    weight = 4
   [[menu.header]]
     name = "Research"
     title = "Research"
     url = "/research/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Consultancy"
     title = "Consultancy"
     url = "/Consultancy/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    weight = 7
+    weight = 6
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/teaching/"
-    weight = 6
+    weight = 3
     
   # Configure footer  
   [[menu.footer]]
