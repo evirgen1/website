@@ -128,29 +128,24 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Research"
+    title = "Research"
+    url = "/research/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Consultancy"
+    title = "Consultancy"
+    url = "/Consultancy/"
     weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
   [[menu.header]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
     weight = 7
   [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
     weight = 6
     
   # Configure footer  
