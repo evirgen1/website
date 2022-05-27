@@ -92,7 +92,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/yusuf-evirgen-240850110/"    
+      url       = "https://www.linkedin.com/in/yusuf-evirgen-240850110/"
+  [[params.social]]
+      icon      = "youtube" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.youtube.com/channel/UCE8eL1zoImHy6f5EkjOArdA"    
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -101,10 +105,6 @@ enableEmoji = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/evirgenyusuff"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
