@@ -133,11 +133,6 @@ enableEmoji = true
     url = "/research/"
     weight = 2
   [[menu.header]]
-    name = "Consultancy"
-    title = "Consultancy"
-    url = "/Consultancy/"
-    weight = 5
-  [[menu.header]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
