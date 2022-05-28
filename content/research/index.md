@@ -23,7 +23,7 @@ sidebar:
   title: A Sidebar for Your Projects
 title: Research
 ---
-Broadly speaking, my current works examine when and how leaders use state apparatus to repress opposition in authoritarian countries. In this venture, he combines innovative quantitative methodologies with in-depth interviews and fieldwork.
+Broadly speaking, my current works examine when and how leaders use state apparatus to repress opposition in authoritarian countries. In this venture, I combine innovative quantitative methodologies with in-depth interviews and fieldwork.
 
 ### Published or Forthcoming
 
