@@ -24,7 +24,7 @@ sidebar:
 title: Teaching
 ---
 
-### **Lecturer (2022 - )**
+### **Lecturer (2022 - Present)**
 
 ####  Social Movement and Protest (PLSC 486Z)
 
