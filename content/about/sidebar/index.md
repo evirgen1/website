@@ -8,7 +8,7 @@ audio_link_label: "How to say my name" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Binghamton University, SUNY
-  url: https://en.wikipedia.org/wiki/Paris
+  url: https://www.binghamton.edu/political-science/index.html
 - name: Işık Üniversitesi
   url: https://www.isikun.edu.tr/anasayfa_2019
 - name: Google Scholar
