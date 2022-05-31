@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: For any invitations and questions, please send a message. 
+description: For any invitations and questions, please send a message.
 draft: false
 formspree_form_id: yevirge1@binghamton.edu
 layout: split-right

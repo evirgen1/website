@@ -9,10 +9,10 @@ link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Binghamton University, SUNY
   url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Işık Üniversitesi
+  url: https://www.isikun.edu.tr/anasayfa_2019
+- name: Google Scholar
+  url: hhttps://scholar.google.com/citations?user=8_PutLUAAAAJ&hl=en&oi=ao
 ---
 
 ** index doesn't contain a body, just front matter above.
